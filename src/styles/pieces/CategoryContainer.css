@@ -1,0 +1,14 @@
+.CategoryContainer {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100vw;
+    height: 16vw;
+    margin-top: 17vw;
+    z-index: 2;
+}
+
+.LinkCategory {
+    text-decoration: none;
+}

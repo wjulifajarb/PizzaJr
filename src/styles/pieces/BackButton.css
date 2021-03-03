@@ -1,0 +1,21 @@
+.ComebackContainer {
+    position: absolute;
+    width: 10vw;
+    height: 5vw;
+    margin-left: 80vw;
+    margin-top: 155vw;
+    background-color: hsla(0, 0%, 100%, 0.781);
+    text-align: center;
+    padding-left: 8vw;
+    border-top-left-radius: 15px;   
+    border-bottom-left-radius: 15px;
+}
+
+.RegresarText {
+    margin-top: 1.7vw;
+    font-size: 3vw;
+    margin-left: -15vw;
+    color: rgb(0, 0, 0);
+}
+
+

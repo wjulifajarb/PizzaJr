@@ -1,0 +1,10 @@
+.BasketTotal {
+    position: absolute;
+    width: 30vw;
+    height: 10vw;
+    margin-top: 155vw;
+    margin-left: 35vw;
+    background-color: hsla(0, 0%, 100%, 0.712);
+    text-align: center;
+    border-radius: 15px;
+}
